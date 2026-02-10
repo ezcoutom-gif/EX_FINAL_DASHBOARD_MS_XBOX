@@ -1,1 +1,1 @@
-Exercicio final do Bootcamp de Excel com IA, onde utilizamos uma BD ficticia com dados de vendas do MIcrosoft XBOX Game Pass, EA PLAY SEASON PASS e Minecraft Season Pass. Usuário deve selecionar um período no menu à equerda e analisar dados filtrados automaticamente
+Exercício final do Bootcamp de Excel com IA, onde utilizamos uma BD fictícia com dados de vendas do Microsoft XBOX Game Pass, EA PLAY SEASON PASS e Minecraft Season Pass. Usuário deve selecionar um período no menu à esquerda e analisar dados filtrados automaticamente.
